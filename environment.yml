@@ -1,2 +1,5 @@
-numpy
-matplotlib
+name: plot
+
+dependencies:
+  - numpy
+  - matplotlib
